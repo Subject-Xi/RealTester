@@ -2,6 +2,7 @@
 public class Testclass {
 	
 	public static void main(String [] args) {
-		System.
+		System.out.println("Hello world");
+		System.out.println("Goodbye world");
 	}
 }
